@@ -1,0 +1,119 @@
+{
+  "contact": {
+    "email": "yakine.cho.fst@uhp.ac.ma",
+    "telephone": "+212 707-157455",
+    "linkedin": "linkedin.com/in/chouaib-yakine",
+    "localisation": "Casablanca"
+  },
+  "summary": {
+    "profil": "E creation, cv upload, job applications, application tracking • recruiter space: job offers creation and applications management • ai-based matching system using gemini 2.",
+    "formation": [
+      {
+        "annee": "2024",
+        "diplome": "Faculty of Sciences and Techniques of Settat (FSTS) Bachelor's Degree in Computer Engineering (2024 – 2025) Faculty of Sciences and Techniques of Settat (FSTS) DEUST – Mathematics, Computer Science, Physics (2022 – 2024)"
+      }
+    ],
+    "experiences": [
+      {
+        "poste": "Full-Stack Developer Intern – HumanTech Solutions, Casablanca (Apr"
+      },
+      {
+        "poste": "2025 – Jun 2025) • Development of an intelligent recruitment management platform based on microservices • Candidate space:"
+      }
+    ],
+    "competences": {
+      "langages": [
+        "C",
+        "Java",
+        "Javascript",
+        "Php",
+        "Python",
+        "R"
+      ],
+      "frameworks": [
+        "Express",
+        "Flask",
+        "Gin",
+        "Node.js",
+        "React"
+      ],
+      "databases": [
+        "MySQL",
+        "Sql"
+      ],
+      "data_science": [
+        "Ai"
+      ],
+      "outils": [
+        "Eclipse",
+        "Git",
+        "Postman"
+      ],
+      "networking": [
+        "Cisco",
+        "Dhcp",
+        "Lan",
+        "Nat",
+        "Packet Tracer",
+        "Rip",
+        "Switching",
+        "Vlan",
+        "Wan"
+      ]
+    },
+    "projets": [
+      {
+        "periode": "Oct 2024 – Jan 2025",
+        "titre": "Motorola 6809 Microprocessor Simulation • Java-Based Simulator With Swing Gui • Execution Of Machine Code And Management Of Registers, Memory, Stack, And Pc Bank Network Design • Network Architecture Using Cisco Packet Tracer • Lan, Wan, Vlan, Nat, Dhcp, Rip, Switching, Security Practices Project Management Platform • Web Application For Managing Projects, Tasks, And Documents • Technologies: Php, Javascript, Html, Css, Bootstrap, Mysql"
+      }
+    ]
+  },
+  "skills": {
+    "langages": [
+      "C",
+      "Java",
+      "Javascript",
+      "Php",
+      "Python",
+      "R"
+    ],
+    "frameworks": [
+      "Express",
+      "Flask",
+      "Gin",
+      "Node.js",
+      "React"
+    ],
+    "databases": [
+      "MySQL",
+      "Sql"
+    ],
+    "data_science": [
+      "Ai"
+    ],
+    "outils": [
+      "Eclipse",
+      "Git",
+      "Postman"
+    ],
+    "networking": [
+      "Cisco",
+      "Dhcp",
+      "Lan",
+      "Nat",
+      "Packet Tracer",
+      "Rip",
+      "Switching",
+      "Vlan",
+      "Wan"
+    ]
+  },
+  "sections_detected": [
+    "PROFIL",
+    "FORMATION",
+    "EXPERIENCE",
+    "COMPETENCES",
+    "PROJETS",
+    "LANGUES"
+  ]
+}

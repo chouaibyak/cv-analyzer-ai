@@ -1,0 +1,8 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+pymupdf==1.23.8
+gradio==4.8.0
+requests==2.31.0
+spacy==3.7.2
+fr-core-news-md @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.7.0/fr_core_news_md-3.7.0-py3-none-any.whl
