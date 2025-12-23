@@ -9,7 +9,7 @@ BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
 def format_summary(data):
     """Formate le résumé de manière lisible avec design moderne."""
     if "error" in data:
-        return f"❌ {data['error']}"
+        return f" {data['error']}"
     
     summary_text = ""
     
